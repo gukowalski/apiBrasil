@@ -6,7 +6,7 @@ import { Estado } from '../common/brasilapi.models';
 @Injectable({
   providedIn: 'root',
 })
-export class Brasilapi {
+export class Brasilapiservice {
 
   baseURL: string = 'https://brasilapi.com.br/api'
 
